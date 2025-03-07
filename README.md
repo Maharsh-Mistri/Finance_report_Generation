@@ -52,5 +52,5 @@ python main.py
 This project is open-source and can be modified as needed.
 
 ## Author
-Harshil Kakkad, Pranaam Patel, Miten Nakum, Fenil Makwana, Mahek Mehta  
+Harshil Kakkad, Pranaam Patel, Miten Nakum, Fenil Makwana, Mahek Mehta, Maharsh Mistri
 
